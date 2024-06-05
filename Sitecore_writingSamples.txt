@@ -1,0 +1,12 @@
+Here are some writing samples:
+
+
+1. API reference: Go to https://doc.sitecore.com/search/en/developers/search-and-recommentation-api/index.html anbd expand nodes. For example, expand widget > items > questions.
+
+2. User doc: https://doc.sitecore.com/search/en/users/search-user-guide/indexing-content.html#types-of-push-sources (and all nodes under this topic). This repo contains a PDF  version of some topics in this section - Sitecore_sample_user_sources.pdf
+
+3. Developer documentation: 
+	1. https://doc.sitecore.com/search/en/developers/search-developer-guide/walkthrough--using-apis-to-create-a-search-experience-and-send-events.html. This repo contains a PDF  version of some topics in this section - Sitecore_sample_developer_walkthrough.pdf
+	2. https://doc.sitecore.com/search/en/developers/search-developer-guide/api-authentication-and-authorization.html
+
+ 
